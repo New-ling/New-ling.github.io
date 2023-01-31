@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>从零开始搭建一个后台模板</title>
+    <url>/2023/01/29/%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>测试测试测试</p>
+]]></content>
+      <categories>
+        <category>Hexo 博客</category>
+      </categories>
+      <tags>
+        <tag>CESHI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/01/28/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -19,24 +31,37 @@
 ]]></content>
   </entry>
   <entry>
-    <title>从零开始搭建一个后台模板</title>
-    <url>/2023/01/29/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>测试测试测试</p>
+    <title>喜大普奔</title>
+    <url>/2023/01/31/%E6%B5%8B%E8%AF%951/</url>
+    <content><![CDATA[<p>搞了4天，还是3天。虽然是套模板，但是对于我这个白痴来说……啥也看不懂啊啊啊！</p>
+<h2 id="总算是差不多弄完了……"><a href="#总算是差不多弄完了……" class="headerlink" title="总算是差不多弄完了……"></a>总算是<del>差不多</del>弄完了……</h2><center><img src=" https://ww1.sinaimg.cn/large/9150e4e5gy1g54v539qhwj20k00j3aaa.jpg " width="30%" loading="lazy"></center>
+
+<p>想着更完善一些的，比如说评论功能什么的，但是评论功能需要腾讯云服务……（简而言之就是需要money……）  </p>
+<p>然后想着找找有没有别的办法或者别的插件</p>
+<p>果然是有的：作者配置的twikoo评论插件可以使用白嫖术对其应用，奈何最后一部被墙了……哈哈……  </p>
+<p>其次是其次是使用Valine插件，可是这个主题没有配置，自己又不会捣鼓。<del>（捣鼓了，但是又没有捣鼓，很好，很浪费时间！）</del>  </p>
+<p>当然还有一些别的东西……总之就是想弄的东西没有弄上，需要删除和改善的又没找到入口（？）<del>反正没人看无所谓了！</del></p>
+<p>然后是静态博客对我来说过分硬核……，以及<code>hexo d</code>经常出现无法连接到GitHub令人抓狂……markdown写作对我来说也还要学，当然这也是十分硬核的。。想要漂亮的排版！可是我不会，哈哈，还是word适合我……</p>
+<p>最后是感谢大佬的主题！</p>
+<div class="trm-flink row">
+<div class="col-lg-12">
+    <a href='//www.imalun.com/' target='_blank' rel="nofollow">
+        <div class="trm-service-icon-box trm-scroll-animation trm-p-20" data-scroll data-scroll-offset="40">
+            <div class="trm-service-content">
+                <div class="trm-icon">
+                    <img class="no-fancybox" draggable="false" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="白云苍狗" src="//www.imalun.com/images/avatar.jpg" loading="lazy">
+                </div>
+                <div class="trm-service-text">
+                    <h6 class="trm-mb-10">白云苍狗</h6>
+                    <div>醒，亦在人间；梦，亦在人间</div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div></div>
 ]]></content>
       <categories>
-        <category>Hexo 博客</category>
-      </categories>
-      <tags>
-        <tag>CESHI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试1</title>
-    <url>/2023/01/29/%E6%B5%8B%E8%AF%951/</url>
-    <content><![CDATA[<p>测试测试测试</p>
-]]></content>
-      <categories>
-        <category>abc</category>
+        <category>乱七八糟</category>
       </categories>
   </entry>
 </search>
